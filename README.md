@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jamesokunlade" target="blank"><img src="https://img.shields.io/twitter/follow/jamesokunlade?logo=twitter&style=for-the-badge" alt="jamesokunlade" /></a> </p>
 
-- 🔭 I'm currently working on building **an holistic workout tracking and gym subscription management app.**
+- 🔭 I'm currently working on building Fitbranch every other weekend.
 
 - 🌱 I’m currently learning **GraphQL API development.**
 
