@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">An adept JavaScript & Ruby engineer with 4+ years of experience. I have a well-rounded skill set in writing quality, scalable and high-performant code, and honed talents in enforcing best practices, technical writing, and clear documentation including keen attention to detail and accuracy.</h3>
+<h3 align="center">An adept JavaScript & Ruby engineer with 6+ years of experience. I have a well-rounded skill set in writing quality, scalable and high-performant code, and honed talents in enforcing best practices, technical writing, and clear documentation including keen attention to detail and accuracy.</h3>
 
 <p align="left"> <a href="https://twitter.com/jamesokunlade" target="blank"><img src="https://img.shields.io/twitter/follow/jamesokunlade?logo=twitter&style=for-the-badge" alt="jamesokunlade" /></a> </p>
 
